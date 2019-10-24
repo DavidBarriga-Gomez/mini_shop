@@ -183,10 +183,33 @@
         null,
         null,
         1,
+        1,
         null
       ],
       "/Users/davidgomez/solo_work/mini_shop/app/helpers/application_helper.rb": [
         1,
+        null
+      ],
+      "/Users/davidgomez/solo_work/mini_shop/spec/features/merchants/show_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
         null
       ],
       "/Users/davidgomez/solo_work/mini_shop/app/models/merchant.rb": [
@@ -206,6 +229,10 @@
         1,
         null,
         null,
+        1,
+        1,
+        null,
+        null,
         null
       ],
       "/Users/davidgomez/solo_work/mini_shop/app/controllers/application_controller.rb": [
@@ -214,6 +241,6 @@
         null
       ]
     },
-    "timestamp": 1571841601
+    "timestamp": 1571883433
   }
 }

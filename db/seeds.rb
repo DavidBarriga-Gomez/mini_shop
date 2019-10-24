@@ -8,7 +8,7 @@
 
 
 #merchants
-merchant_1 = Merchant.new(name: 'David', address: '4942 willow street', city: 'Denver', state: 'Colorado', zip: '80238')
-merchant_2 = Merchant.new(name: 'Scott', address: '4942 willow street', city: 'Denver', state: 'Colorado', zip: '80238')
-merchant_3 = Merchant.new(name: 'Ollie', address: '4942 willow street', city: 'Denver', state: 'Colorado', zip: '80238')
-merchant_4 = Merchant.new(name: 'Ryan', address: '4942 willow street', city: 'Denver', state: 'Colorado', zip: '80238')
+merchant_1 = Merchant.create(name: 'David', address: '4942 willow street', city: 'Denver', state: 'Colorado', zip: '80238')
+merchant_2 = Merchant.create(name: 'Scott', address: '4942 willow street', city: 'Denver', state: 'Colorado', zip: '80238')
+merchant_3 = Merchant.create(name: 'Ollie', address: '4942 willow street', city: 'Denver', state: 'Colorado', zip: '80238')
+merchant_4 = Merchant.create(name: 'Ryan', address: '4942 willow street', city: 'Denver', state: 'Colorado', zip: '80238')
